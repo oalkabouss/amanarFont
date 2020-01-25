@@ -1,0 +1,1 @@
+Amanar caractère dessiné par Pierre di Sciullo, www.quiresiste.com

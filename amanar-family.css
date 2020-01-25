@@ -1,0 +1,33 @@
+ @font-face {
+    font-family: 'Amanar';
+    font-weight: normal;
+    src: url(AmanarTT/Amanar_M.ttf);
+ }
+
+ @font-face {
+    font-family: 'Amanar';
+    font-weight: bold;
+    src: url(AmanarTT/Amanar_N.ttf);
+ }
+
+ @font-face {
+    font-family: 'Amanar Decor';
+    font-weight: normal;
+    src: url(AmanarTT/Amanar_D.ttf);
+ }
+
+ @font-face {
+    font-family: 'Amanar Decor';
+    font-weight: bold;
+    src: url(AmanarTT/Amanar_N.ttf);
+ }
+
+ @font-face {
+    font-family: 'Amanar Condense';
+    src: url(AmanarTT/Amanar_C.ttf);
+ }
+
+ /* Amanar caractère dessiné par Pierre di Sciullo, www.quiresiste.com */
+
+
+
